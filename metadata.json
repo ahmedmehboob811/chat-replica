@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Real-Time Chat",
+  "description": "A real-time chat application built with React, TypeScript, Tailwind CSS, Supabase, and Clerk for authentication. It features live messaging, image uploads, and typing indicators, similar to WhatsApp.",
+  "requestFramePermissions": []
+}
